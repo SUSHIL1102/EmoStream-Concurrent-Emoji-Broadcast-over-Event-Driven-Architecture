@@ -1,0 +1,7 @@
+flask==3.0.2
+kafka-python==2.0.2
+pyspark==3.5.3
+websocket-client==1.7.0
+websocket-server==0.4
+requests==2.31.0
+#python-logging==0.4.9.6
